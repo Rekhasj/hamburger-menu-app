@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.home-image {
+  height: 500px;
+  width: 600px;
+}
+
+.home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40vh;
+}

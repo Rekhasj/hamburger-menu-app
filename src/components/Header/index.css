@@ -1,0 +1,32 @@
+.website-logo {
+  height: 50px;
+  width: 50px;
+}
+
+.hamburger-icon {
+  font-size: 30px;
+}
+.popup-container {
+  height: 100vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 5px 20px;
+}
+.close-icon {
+  text-align: left;
+}
+.pop-up-name {
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.icon-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+}
+.icon-image {
+  font-size: 20px;
+}
